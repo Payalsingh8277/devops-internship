@@ -3,10 +3,9 @@
 This repository contains all tasks completed during my DevOps Internship.
 
 ## Tasks Summary
-
+# DevOps Internship Tasks
 | Task | Description | Folder |
 |------|-------------|--------|
-# DevOps Internship Tasks
 | 1 | Automate Code Deployment Using CI/CD Pipeline (GitHub Actions) | [task1-cicd-github-actions](./task1-cicd-github-actions/) |
 | 2 | Jenkins Pipeline for CI/CD | [task2-jenkins-pipeline-cicd](./task2-jenkins-pipeline-cicd/) |
 | 3 | Infrastructure as Code (IaC) with Terraform | [task3-terraform-docker](./task3-terraform-docker/) |
