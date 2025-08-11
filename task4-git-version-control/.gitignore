@@ -1,0 +1,16 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore output/build directories
+output/
+build/
+
+# Ignore temporary files
+*.tmp
