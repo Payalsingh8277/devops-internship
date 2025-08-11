@@ -6,12 +6,12 @@ This repository contains all tasks completed during my DevOps Internship.
 
 | Task | Description | Folder |
 |------|-------------|--------|
-| 1 | Automate Code Deployment Using CI/CD Pipeline (GitHub Actions) | (./task-1-automate-code-deployment-github-actions/) |
-| 2 | Jenkins Pipeline for CI/CD | (./task-2-simple-jenkins-pipeline-cicd/) |
-| 3 | Infrastructure as Code (IaC) with Terraform | (./task-3-infrastructure-as-code-terraform/) |
-| 4 | Build a Version-Controlled DevOps Project with Git | (./task4) |
-| 5 | Build a Kubernetes Cluster Locally with Minikube | (./task5-k8s-deployment) |
-
+# DevOps Internship Tasks
+| 1 | Automate Code Deployment Using CI/CD Pipeline (GitHub Actions) | [task1-cicd-github-actions](./task1-cicd-github-actions/) |
+| 2 | Jenkins Pipeline for CI/CD | [task2-jenkins-pipeline-cicd](./task2-jenkins-pipeline-cicd/) |
+| 3 | Infrastructure as Code (IaC) with Terraform | [task3-terraform-docker](./task3-terraform-docker/) |
+| 4 | Build a Version-Controlled DevOps Project with Git | [task4-git-version-control](./task4-git-version-control/) |
+| 5 | Kubernetes Deployment using Minikube | [task5-k8s-deployment](./task5-k8s-deployment/) |
 
 ---
 
