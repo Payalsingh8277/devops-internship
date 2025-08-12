@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Form</title>
+</head>
+<body>
+  <h1>FORM</h1>
+
+  <form onsubmit="myFunction(event)">
+    <label for="fname">First Name:</label><br>
+    <input type="text" id="fname" name="fname"><br>
+
+    <label for="lname">Last Name:</label><br>
+    <input type="text" id="lname" name="lname"><br><br>
+
+    <label>Gender:</label><br>
+    <input type="radio" id="male" name="gender" value="male">
+    <label for="male">MALE</label><br>
+
+    <input type="radio" id="female" name="gender" value="female">
+    <label for="female">FEMALE</label><br>
+
+    <input type="radio" id="other" name="gender" value="other">
+    <label for="other">OTHERS</label><br><br>
+
+    <input type="submit" value="Submit">
+  </form>
+
+  <script>
+    function myFunction(event) {
+      event.preventDefault(); // Prevent form from submitting and reloading page
+      alert("The form was submitted");
+    }
+  </script>
+</body>
+</html>
