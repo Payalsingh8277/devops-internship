@@ -11,6 +11,7 @@ This repository contains all tasks completed during my DevOps Internship.
 | 3 | Infrastructure as Code (IaC) with Terraform | [task3-terraform-docker](./task3-terraform-docker/) |
 | 4 | Build a Version-Controlled DevOps Project with Git | [task4-git-version-control](./task4-git-version-control/) |
 | 5 | Kubernetes Deployment using Minikube | [task5-k8s-deployment](./task5-k8s-deployment/) |
+| 6 | Host a Static Website with GitHub Pages | [docs](./docs/) |
 
 ---
 
