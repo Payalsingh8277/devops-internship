@@ -30,11 +30,11 @@ Install Netdata and visualize system and application performance metrics using D
     Alerts: From the Health tab in the dashboard.
 
     Logs:
-    docker exec -it netdata /bin/bash
+    docker exec -it netdata /bin/bash ,
     cat /var/log/netdata/error.log
 
 **Screenshot**
-![alt text](netdata_dashboard.png-1.png)
+![alt text](netdata_dashboard.png)
 
 **Conclusion**
 
