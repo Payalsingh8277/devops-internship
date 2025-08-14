@@ -12,6 +12,7 @@ This repository contains all tasks completed during my DevOps Internship.
 | 4 | Build a Version-Controlled DevOps Project with Git | [task4-git-version-control](./task4-git-version-control/) |
 | 5 | Kubernetes Deployment using Minikube | [task5-k8s-deployment](./task5-k8s-deployment/) |
 | 6 | Host a Static Website with GitHub Pages | [docs](./docs/) |
+| 7 | Monitor System Resources Using Netdata | [task7-netdata](./task7-netdata/) |
 
 ---
 
