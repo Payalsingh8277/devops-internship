@@ -9,7 +9,7 @@ Install Netdata and visualize system and application performance metrics using D
 
 ## Steps Performed
 
-1. **Run Netdata in Docker**
+1. Run Netdata in Docker
    ```powershell
    docker run -d --name=netdata -p 19999:19999 --cap-add=SYS_PTRACE --security-opt apparmor=unconfined netdata/netdata
 
