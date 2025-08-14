@@ -15,33 +15,27 @@ Install Netdata and visualize system and application performance metrics using D
 
 2. **Access the Dashboard**
 
-Open a browser and go to: http://localhost:19999
+      Open a browser and go to: http://localhost:19999
 
 3. **Metrics Observed**
 
-CPU usage
-
-RAM usage
-
-Disk read/write speed
-
-Network inbound/outbound traffic
-
-System load
+    CPU usage
+    RAM usage
+    Disk read/write speed
+    Network inbound/outbound traffic
+    System load
 
 4. **Explore Alerts & Logs**
 
-Alerts: From the Health tab in the dashboard.
+    Alerts: From the Health tab in the dashboard.
 
-Logs:
+    Logs:
+    docker exec -it netdata /bin/bash
+    cat /var/log/netdata/error.log
 
-docker exec -it netdata /bin/bash
-cat /var/log/netdata/error.log
-
-Screenshot
-
+**Screenshot**
 ![alt text](netdata_dashboard.png-1.png)
 
-Conclusion
+**Conclusion**
 
 Netdata provides an easy-to-use, web-based interface for real-time system monitoring. Running it in Docker makes it portable and quick to set up.
