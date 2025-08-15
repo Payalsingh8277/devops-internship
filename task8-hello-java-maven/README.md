@@ -23,12 +23,13 @@ task8-hello-java-maven/
    apt update && apt install -y maven
 4. Configured Jenkins Freestyle Job:
 
-Source Code Management: Git (Repo URL)
+   Source Code Management: Git (Repo URL)
 
-Build Tool: Maven (clean install)
+   Build Tool: Maven (clean install)
 
 5. Triggered Build and verified output.
 
-## Screenshots
-
+## 
+Screenshots
+![alt text](Build_Success-1.png)
 Jenkins console output with BUILD SUCCESS ✅
