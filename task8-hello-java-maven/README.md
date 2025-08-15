@@ -31,5 +31,5 @@ task8-hello-java-maven/
 
 ## 
 Screenshots
-![alt text](Build_Success-1.png)
+![alt text](Build_Success.png)
 Jenkins console output with BUILD SUCCESS ✅
